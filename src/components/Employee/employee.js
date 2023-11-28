@@ -7,7 +7,7 @@ function Employee(props) {
         <div className="col-sm-4 mb-2">
             <div className="card employee">
                 <div className="card-body">
-                    <h5 class="card-title"><span className='emp_first_name'>{ employee.first_name }</span> <span className='emp_first_name'>{ employee.last_name }</span></h5>
+                    <h5 class="card-title"><span className='emp_first_name'>{ employee.first_name }</span> <span className='emp_last_name'>{ employee.last_name }</span></h5>
                     <p className="card-text">
                         <span className='emp_email'>{ employee.email }</span><br />
                         { employee.phone_number }
