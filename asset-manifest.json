@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/strawbridge/static/css/main.f855e6bc.css",
-    "main.js": "/strawbridge/static/js/main.845e480e.js",
+    "main.js": "/strawbridge/static/js/main.f855b972.js",
     "index.html": "/strawbridge/index.html",
     "main.f855e6bc.css.map": "/strawbridge/static/css/main.f855e6bc.css.map",
-    "main.845e480e.js.map": "/strawbridge/static/js/main.845e480e.js.map"
+    "main.f855b972.js.map": "/strawbridge/static/js/main.f855b972.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.845e480e.js"
+    "static/js/main.f855b972.js"
   ]
 }
